@@ -7,5 +7,7 @@ I am doing the 100 Days of Code challenge and have decided to document my progre
 
 So, essentially this is my hello-world project! 
 
+Since I work in Security, I think that I may explore some python to start. 
+
 All the best,
 ~Fn00b
